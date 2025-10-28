@@ -8,7 +8,9 @@ export const metadata: Metadata = {
 export default function Home() {
   return (
     <>
-      <h1 className="text-[38px] font-[700]">Trang chủ</h1>
+      <h1 className="text-[38px] font-[700] text-black h-[3000px] bg-white">
+        Trang chủ
+      </h1>
     </>
   );
 }
